@@ -1,0 +1,23 @@
+# Temp scripts
+build_nb*.py
+fix_cn*.py
+check_*.py
+test_*.py
+upload*.py
+smtp_test.py
+nb2md.py
+split_md.py
+translate_nb.py
+list_pkg.py
+check_env.ps1
+email_body.txt
+
+# Checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# OpenClaw internals
+.consolidate-state.json
+.openclaw/
